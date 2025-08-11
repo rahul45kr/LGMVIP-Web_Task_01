@@ -19,5 +19,4 @@ It’s easy to use and works on both computer and mobile.
 - HTML
 - CSS
 - JavaScript
-- JavaScript
 
