@@ -1,6 +1,6 @@
 # Task Management App
 
-This is a simple To-Do List app made with HTML, CSS, and JavaScript.  
+This is a simple Task Management App made with HTML, CSS, and JavaScript.  
 You can use it to add tasks, mark them as done, and delete them.  
 It’s easy to use and works on both computer and mobile.
 
