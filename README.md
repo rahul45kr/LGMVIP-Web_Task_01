@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="To-do-list app" src="https://github.com/user-attachments/assets/b0aa3f7f-f4c9-42ca-93f1-a92dbd36599a" />
+
 # Task Management App
 
 This is a simple Task Management App made with HTML, CSS, and JavaScript.  
