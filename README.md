@@ -1,4 +1,6 @@
-<img width="1366" height="740" alt="To-do-list app" src="https://github.com/user-attachments/assets/c0fd2d65-3c2f-4308-ab73-27ec6cbfa92e" />
+<img width="1366" height="768" alt="Task Management App 2" src="https://github.com/user-attachments/assets/d1d23e03-8823-4860-8a48-7bd63e20b00d" />
+<img width="1366" height="768" alt="Task Management App" src="https://github.com/user-attachments/assets/b4efb8c7-8f73-499e-97dd-1fb3a29ec316" />
+
 
 
 # Task Management App
